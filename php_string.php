@@ -6,11 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-
-<?php
-
-
-?>
-    
+   <h1>we are learning php</h1> 
 </body>
 </html>
